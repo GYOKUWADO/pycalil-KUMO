@@ -1,0 +1,15 @@
+Univ_Tenri_Central 天理大学附属天理図書館
+Nara_Tenri 天理市立図書館
+Nara_Pref 奈良県立図書情報館
+Nara_Tawaramoto 田原本町立図書館
+Nara_Kawanishi 川西町立図書館
+Tokyo_NDL 国立国会図書館関西館
+
+REM 貸出可、 蔵書あり、 館内のみ、 貸出中、 予約中、 準備中、 休館中、 蔵書なし
+
+REM 個別の本ページへのリンク：
+REM https://calil.jp/book/{ISBN10}
+REM 図書館ページへのリンク：
+REM https://calil.jp/library/{libid}/{図書館の正式名称}
+REM 図書館ページへのリンク2（libkeyとシステムIDから飛ぶ場合）：
+REM https://calil.jp/library/search?s={システムID}&k={図書館のLibkey}
