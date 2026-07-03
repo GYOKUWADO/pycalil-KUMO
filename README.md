@@ -74,3 +74,8 @@ APIに関して引数や戻り値などの詳しい仕様
 
 ## License
 "pycalil" is under MIT license.
+
+## KUMO to MSG
+test.batの3行目のapp_keyをセットして実行してください。
+lib_my_HOME_to.txtは任意の図書館の<libid>をセット
+>test.batを実行
